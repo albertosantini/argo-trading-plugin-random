@@ -30,7 +30,7 @@
         "lint": "eslint bin/argo-trading-plugin-random lib/**/*.js"
     },
     "devDependencies": {
-        "eslint": "~2.0.0-beta.2",
-        "eslint-config-eslint": "~2.0.0"
+        "eslint": "~2.0.0",
+        "eslint-config-eslint": "~3.0.0"
     }
 }
