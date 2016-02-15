@@ -1,3 +1,9 @@
+<a name="1.1.0"></a>
+# [1.1.0](https://github.com/albertosantini/argo-trading-plugin-random/compare/1.0.1...v1.1.0) (2016-02-15)
+
+
+
+
 1.0.1 / 2015-08-01
 ==================
 
