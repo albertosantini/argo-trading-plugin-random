@@ -1,3 +1,13 @@
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/albertosantini/argo-trading-plugin-random/compare/v1.2.0...v2.0.0) (2017-03-09)
+
+
+### Features
+
+* **core:** update to v20 REST calls([2d68c3a](https://github.com/albertosantini/argo-trading-plugin-random/commit/2d68c3a))
+
+
+
 <a name="1.2.0"></a>
 # [1.2.0](https://github.com/albertosantini/argo-trading-plugin-random/compare/v1.1.0...v1.2.0) (2016-04-09)
 
