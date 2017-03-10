@@ -1,3 +1,15 @@
+<a name="2.0.1"></a>
+## [2.0.1](https://github.com/albertosantini/argo-trading-plugin-random/compare/v2.0.0...v2.0.1) (2017-03-10)
+
+
+### Bug Fixes
+
+* **bars:** fix middle price ([9d9db7e](https://github.com/albertosantini/argo-trading-plugin-random/commit/9d9db7e))
+* **bars:** fix typo in midPrice ([75d1a99](https://github.com/albertosantini/argo-trading-plugin-random/commit/75d1a99))
+* **onbar:** fix fillOrder call ([1f84367](https://github.com/albertosantini/argo-trading-plugin-random/commit/1f84367))
+
+
+
 <a name="2.0.0"></a>
 # [2.0.0](https://github.com/albertosantini/argo-trading-plugin-random/compare/v1.2.0...v2.0.0) (2017-03-09)
 
