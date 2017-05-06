@@ -1,3 +1,8 @@
+<a name="2.0.4"></a>
+## [2.0.4](https://github.com/albertosantini/argo-trading-plugin-random/compare/v2.0.3...v2.0.4) (2017-05-06)
+
+
+
 <a name="2.0.3"></a>
 ## [2.0.3](https://github.com/albertosantini/argo-trading-plugin-random/compare/v2.0.2...v2.0.3) (2017-05-02)
 
