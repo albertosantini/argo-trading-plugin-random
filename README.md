@@ -1,7 +1,7 @@
 # ARGO-TRADING PLUGIN RANDOM
 
-[![NPM version](https://badge.fury.io/js/argo-trading-plugin-random.png)](http://badge.fury.io/js/argo-trading-plugin-random)
-[![Build Status](https://travis-ci.org/albertosantini/argo-trading-plugin-random.png)](https://travis-ci.org/albertosantini/argo-trading-plugin-random)
+[![NPM version](https://badge.fury.io/js/argo-trading-plugin-random.svg)](http://badge.fury.io/js/argo-trading-plugin-random)
+![](https://github.com/albertosantini/argo-trading-plugin-random/workflows/CI/badge.svg)
 
 `argo-tradin-plugin-random` is a plugin for [Argo][], the open source trading
 platform, connecting directly with [OANDA][] through the powerful [API][].
